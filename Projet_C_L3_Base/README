@@ -1,0 +1,29 @@
+Nom : DUGAUQUIER
+Prénom : Thibault
+Groupe : L3BI
+
+
+	Description du projet : 
+
+Le sujet minimal a été traité dans son intégralité. Ainsi, lors de l'exécution du programme, il s'affiche : le nombre d'étudiants présents à chacun des deux contrôles, le nombre d'étudiants présents aux deux contrôles, la moyenne obtenue par chacun des deux correcteurs (en ignorant les étudiants absents), la moyenne obtenue par chacun des deux correcteurs (en ne prenant en compte que les étudiants présents aux deux contrôles), le coefficient de corrélation de Pearson, la distribution en quintiles des notes de chacun des correcteurs et les représentations graphiques de ces deux distributions en quintiles.
+
+En plus du sujet minimal, j'ai réalisé les extensions suivantes :
+
+- Découpage du code en fonctions : le main sert uniquement pour la lecture du relevé et pour l'affichage, les calculs sont traités dans des fonctions séparées.
+
+- Affichage des valeurs intermédiaires pour le calcul du coefficient de corrélation de Pearson (variances, écarts types et covariance).
+
+- Travail sur l'esthétique de la représentation en histogramme des quintilles : affichage des quintiles en bas de l'histogramme et des effectifs sur le côté gauche (prise en compte du nombre de chiffres des effectifs pour éviter tout décalage dans le graphique), utilisation de flags pour permettre l'affichage de vrais rectangles dans l'histogramme, plutôt qu'une simple ligne.
+
+- Affichage de la représentation en histogramme des quintilles en pourcentages.
+
+- Calcul et affichage de la médiane (la médiance est la valeur qui coupe les notes en deux ensembles  égaux, il y aura autant de valeurs avant la médiane qu'après la médiane) : pour réaliser cette extension, il faut trier un tableau contenant les notes des étudiants présents aux deux contrôles (utilisation du tri par sélection). On obtient ensuite la médiane en prenant la valeur qui se situe au milieu de ce tableau.
+
+
+	Séquence de commandes pour l'exécution du projet:
+
+-> cd thibault-dugauquier
+-> ./compile
+-> a.out < [chemin du relevé]
+
+

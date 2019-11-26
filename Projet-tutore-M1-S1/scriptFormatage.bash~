@@ -1,0 +1,6 @@
+#!/bin/bash
+
+#sed -e "s/<.*>//; s/^$//; /^$/d; s/,/\n/g" $1
+
+sed -e "/<argument>/!d; s/<[\/]*argument>//g; s/ //g; s/,/\n/g" $1 > $1
+

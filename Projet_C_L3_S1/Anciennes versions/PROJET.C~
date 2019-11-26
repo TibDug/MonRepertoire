@@ -1,0 +1,32 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+
+typedef enum {SOURIS, LION, ELEPHANT} piece;
+
+void initialiser(){
+    piece sourisNoir1 = SOURIS;
+    piece sourisNoir2 = SOURIS;
+
+    piece lionNoir1 = LION;
+    piece lionNoir2 = LION;
+
+    piece elephantNoir1 = ELEPHANT;
+    piece elephantNoir2 = ELEPHANT;
+
+    piece sourisBlanc1 = SOURIS;
+    piece sourisBlanc2 = SOURIS;
+
+    piece lionBlanc1 = LION;
+    piece lionBlanc2 = LION;
+
+    piece elephantBlanc1 = ELEPHANT;
+    piece elephantBlanc2 = ELEPHANT;
+}
+
+
+int main(){
+    initialiser();
+    
+    return 0;
+}

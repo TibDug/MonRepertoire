@@ -1,0 +1,4 @@
+Trousse ; 13.0 ; 7.0
+Brique lego ; 8.0 ; 3.0
+Televiseur ; 12.0 ; 4.0
+Ordinateur ; 10.0 ; 3.0

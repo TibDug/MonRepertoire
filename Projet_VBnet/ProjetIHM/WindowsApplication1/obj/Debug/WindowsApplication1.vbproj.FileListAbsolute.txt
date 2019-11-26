@@ -1,0 +1,131 @@
+C:\Users\massu\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\massu\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\massu\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\massu\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\massu\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+C:\Users\massu\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\massu\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\massu\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\massu\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\massu\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\massu\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\massu\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.Options.resources
+C:\Users\massu\Downloads\ProjetIHM\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\massu\Downloads\ProjetIHM\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\massu\Downloads\ProjetIHM\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\massu\Downloads\ProjetIHM\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\massu\Downloads\ProjetIHM\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\massu\Downloads\ProjetIHM\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\massu\Downloads\ProjetIHM\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\massu\Downloads\ProjetIHM\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+C:\Users\massu\Downloads\ProjetIHM\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\massu\Downloads\ProjetIHM\WindowsApplication1\obj\Debug\WindowsApplication1.Options.resources
+C:\Users\massu\Downloads\ProjetIHM\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\massu\Downloads\ProjetIHM\WindowsApplication1\obj\Debug\WindowsApplication1.Partie.resources
+C:\Users\massu\Downloads\ProjetIHM\WindowsApplication1\obj\Debug\WindowsApplication1.ACCEUIL.resources
+C:\Users\dugauqui\Downloads\ProjetIHM-20170523T150537Z-001\ProjetIHM\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\dugauqui\Downloads\ProjetIHM-20170523T150537Z-001\ProjetIHM\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\dugauqui\Downloads\ProjetIHM-20170523T150537Z-001\ProjetIHM\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\dugauqui\Downloads\ProjetIHM-20170523T150537Z-001\ProjetIHM\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\dugauqui\Downloads\ProjetIHM-20170523T150537Z-001\ProjetIHM\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+C:\Users\dugauqui\Downloads\ProjetIHM-20170523T150537Z-001\ProjetIHM\WindowsApplication1\obj\Debug\WindowsApplication1.ACCEUIL.resources
+C:\Users\dugauqui\Downloads\ProjetIHM-20170523T150537Z-001\ProjetIHM\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\dugauqui\Downloads\ProjetIHM-20170523T150537Z-001\ProjetIHM\WindowsApplication1\obj\Debug\WindowsApplication1.Options.resources
+C:\Users\dugauqui\Downloads\ProjetIHM-20170523T150537Z-001\ProjetIHM\WindowsApplication1\obj\Debug\WindowsApplication1.Partie.resources
+C:\Users\dugauqui\Downloads\ProjetIHM-20170523T150537Z-001\ProjetIHM\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\dugauqui\Downloads\ProjetIHM-20170523T150537Z-001\ProjetIHM\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\dugauqui\Downloads\ProjetIHM-20170523T150537Z-001\ProjetIHM\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\dugauqui\Downloads\ProjetIHM-20170523T150537Z-001\ProjetIHM\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+D:\Users\Thibault\Documents\DUT Info\Semestre 2\IHM\ProjetIHM2\ProjetIHM-20170523T150537Z-001\ProjetIHM\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+D:\Users\Thibault\Documents\DUT Info\Semestre 2\IHM\ProjetIHM2\ProjetIHM-20170523T150537Z-001\ProjetIHM\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+D:\Users\Thibault\Documents\DUT Info\Semestre 2\IHM\ProjetIHM2\ProjetIHM-20170523T150537Z-001\ProjetIHM\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+D:\Users\Thibault\Documents\DUT Info\Semestre 2\IHM\ProjetIHM2\ProjetIHM-20170523T150537Z-001\ProjetIHM\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+D:\Users\Thibault\Documents\DUT Info\Semestre 2\IHM\ProjetIHM2\ProjetIHM-20170523T150537Z-001\ProjetIHM\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\Users\Thibault\Documents\DUT Info\Semestre 2\IHM\ProjetIHM2\ProjetIHM-20170523T150537Z-001\ProjetIHM\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\Users\Thibault\Documents\DUT Info\Semestre 2\IHM\ProjetIHM2\ProjetIHM-20170523T150537Z-001\ProjetIHM\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+D:\Users\Thibault\Documents\DUT Info\Semestre 2\IHM\ProjetIHM2\ProjetIHM-20170523T150537Z-001\ProjetIHM\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+D:\Users\Thibault\Documents\DUT Info\Semestre 2\IHM\ProjetIHM2\ProjetIHM-20170523T150537Z-001\ProjetIHM\WindowsApplication1\obj\Debug\WindowsApplication1.ACCEUIL.resources
+D:\Users\Thibault\Documents\DUT Info\Semestre 2\IHM\ProjetIHM2\ProjetIHM-20170523T150537Z-001\ProjetIHM\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+D:\Users\Thibault\Documents\DUT Info\Semestre 2\IHM\ProjetIHM2\ProjetIHM-20170523T150537Z-001\ProjetIHM\WindowsApplication1\obj\Debug\WindowsApplication1.Options.resources
+D:\Users\Thibault\Documents\DUT Info\Semestre 2\IHM\ProjetIHM2\ProjetIHM-20170523T150537Z-001\ProjetIHM\WindowsApplication1\obj\Debug\WindowsApplication1.Partie.resources
+D:\Users\Thibault\Documents\DUT Info\Semestre 2\IHM\ProjetIHM2\ProjetIHM-20170523T150537Z-001\ProjetIHM\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\Enseignant\Downloads\ProjetIHM-20170523T150537Z-001-20170526T142128Z-001\ProjetIHM-20170523T150537Z-001\ProjetIHM\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\Enseignant\Downloads\ProjetIHM-20170523T150537Z-001-20170526T142128Z-001\ProjetIHM-20170523T150537Z-001\ProjetIHM\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\Enseignant\Downloads\ProjetIHM-20170523T150537Z-001-20170526T142128Z-001\ProjetIHM-20170523T150537Z-001\ProjetIHM\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\Enseignant\Downloads\ProjetIHM-20170523T150537Z-001-20170526T142128Z-001\ProjetIHM-20170523T150537Z-001\ProjetIHM\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\Enseignant\Downloads\ProjetIHM-20170523T150537Z-001-20170526T142128Z-001\ProjetIHM-20170523T150537Z-001\ProjetIHM\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Enseignant\Downloads\ProjetIHM-20170523T150537Z-001-20170526T142128Z-001\ProjetIHM-20170523T150537Z-001\ProjetIHM\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Enseignant\Downloads\ProjetIHM-20170523T150537Z-001-20170526T142128Z-001\ProjetIHM-20170523T150537Z-001\ProjetIHM\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\Enseignant\Downloads\ProjetIHM-20170523T150537Z-001-20170526T142128Z-001\ProjetIHM-20170523T150537Z-001\ProjetIHM\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+C:\Users\Enseignant\Downloads\ProjetIHM-20170523T150537Z-001-20170526T142128Z-001\ProjetIHM-20170523T150537Z-001\ProjetIHM\WindowsApplication1\obj\Debug\WindowsApplication1.ACCEUIL.resources
+C:\Users\Enseignant\Downloads\ProjetIHM-20170523T150537Z-001-20170526T142128Z-001\ProjetIHM-20170523T150537Z-001\ProjetIHM\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Enseignant\Downloads\ProjetIHM-20170523T150537Z-001-20170526T142128Z-001\ProjetIHM-20170523T150537Z-001\ProjetIHM\WindowsApplication1\obj\Debug\WindowsApplication1.Options.resources
+C:\Users\Enseignant\Downloads\ProjetIHM-20170523T150537Z-001-20170526T142128Z-001\ProjetIHM-20170523T150537Z-001\ProjetIHM\WindowsApplication1\obj\Debug\WindowsApplication1.Partie.resources
+C:\Users\Enseignant\Downloads\ProjetIHM-20170523T150537Z-001-20170526T142128Z-001\ProjetIHM-20170523T150537Z-001\ProjetIHM\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+D:\Users\Thibault\Downloads\ProjetIHM2\ProjetIHM-20170523T150537Z-001\ProjetIHM\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+D:\Users\Thibault\Downloads\ProjetIHM2\ProjetIHM-20170523T150537Z-001\ProjetIHM\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+D:\Users\Thibault\Downloads\ProjetIHM2\ProjetIHM-20170523T150537Z-001\ProjetIHM\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+D:\Users\Thibault\Downloads\ProjetIHM2\ProjetIHM-20170523T150537Z-001\ProjetIHM\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+D:\Users\Thibault\Downloads\ProjetIHM2\ProjetIHM-20170523T150537Z-001\ProjetIHM\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\Users\Thibault\Downloads\ProjetIHM2\ProjetIHM-20170523T150537Z-001\ProjetIHM\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\Users\Thibault\Downloads\ProjetIHM2\ProjetIHM-20170523T150537Z-001\ProjetIHM\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+D:\Users\Thibault\Downloads\ProjetIHM2\ProjetIHM-20170523T150537Z-001\ProjetIHM\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+D:\Users\Thibault\Downloads\ProjetIHM2\ProjetIHM-20170523T150537Z-001\ProjetIHM\WindowsApplication1\obj\Debug\WindowsApplication1.ACCEUIL.resources
+D:\Users\Thibault\Downloads\ProjetIHM2\ProjetIHM-20170523T150537Z-001\ProjetIHM\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+D:\Users\Thibault\Downloads\ProjetIHM2\ProjetIHM-20170523T150537Z-001\ProjetIHM\WindowsApplication1\obj\Debug\WindowsApplication1.Options.resources
+D:\Users\Thibault\Downloads\ProjetIHM2\ProjetIHM-20170523T150537Z-001\ProjetIHM\WindowsApplication1\obj\Debug\WindowsApplication1.Partie.resources
+D:\Users\Thibault\Downloads\ProjetIHM2\ProjetIHM-20170523T150537Z-001\ProjetIHM\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\massu\Downloads\ProjetIHM-20170523T150537Z-001\ProjetIHM\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\massu\Downloads\ProjetIHM-20170523T150537Z-001\ProjetIHM\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\massu\Downloads\ProjetIHM-20170523T150537Z-001\ProjetIHM\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\massu\Downloads\ProjetIHM-20170523T150537Z-001\ProjetIHM\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\massu\Downloads\ProjetIHM-20170523T150537Z-001\ProjetIHM\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\massu\Downloads\ProjetIHM-20170523T150537Z-001\ProjetIHM\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\massu\Downloads\ProjetIHM-20170523T150537Z-001\ProjetIHM\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\massu\Downloads\ProjetIHM-20170523T150537Z-001\ProjetIHM\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+C:\Users\massu\Downloads\ProjetIHM-20170523T150537Z-001\ProjetIHM\WindowsApplication1\obj\Debug\WindowsApplication1.ACCEUIL.resources
+C:\Users\massu\Downloads\ProjetIHM-20170523T150537Z-001\ProjetIHM\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\massu\Downloads\ProjetIHM-20170523T150537Z-001\ProjetIHM\WindowsApplication1\obj\Debug\WindowsApplication1.Options.resources
+C:\Users\massu\Downloads\ProjetIHM-20170523T150537Z-001\ProjetIHM\WindowsApplication1\obj\Debug\WindowsApplication1.Partie.resources
+C:\Users\massu\Downloads\ProjetIHM-20170523T150537Z-001\ProjetIHM\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+D:\Users\Thibault\Downloads\ProjetIHM\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+D:\Users\Thibault\Downloads\ProjetIHM\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+D:\Users\Thibault\Downloads\ProjetIHM\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+D:\Users\Thibault\Downloads\ProjetIHM\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+D:\Users\Thibault\Downloads\ProjetIHM\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\Users\Thibault\Downloads\ProjetIHM\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\Users\Thibault\Downloads\ProjetIHM\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+D:\Users\Thibault\Downloads\ProjetIHM\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+D:\Users\Thibault\Downloads\ProjetIHM\WindowsApplication1\obj\Debug\WindowsApplication1.ACCEUIL.resources
+D:\Users\Thibault\Downloads\ProjetIHM\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+D:\Users\Thibault\Downloads\ProjetIHM\WindowsApplication1\obj\Debug\WindowsApplication1.Options.resources
+D:\Users\Thibault\Downloads\ProjetIHM\WindowsApplication1\obj\Debug\WindowsApplication1.Partie.resources
+D:\Users\Thibault\Downloads\ProjetIHM\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\dugauqui\Downloads\ProjetIHM-20170530T140555Z-001\ProjetIHM\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\dugauqui\Downloads\ProjetIHM-20170530T140555Z-001\ProjetIHM\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\dugauqui\Downloads\ProjetIHM-20170530T140555Z-001\ProjetIHM\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\dugauqui\Downloads\ProjetIHM-20170530T140555Z-001\ProjetIHM\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\dugauqui\Downloads\ProjetIHM-20170530T140555Z-001\ProjetIHM\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\dugauqui\Downloads\ProjetIHM-20170530T140555Z-001\ProjetIHM\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\dugauqui\Downloads\ProjetIHM-20170530T140555Z-001\ProjetIHM\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\dugauqui\Downloads\ProjetIHM-20170530T140555Z-001\ProjetIHM\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+C:\Users\dugauqui\Downloads\ProjetIHM-20170530T140555Z-001\ProjetIHM\WindowsApplication1\obj\Debug\WindowsApplication1.ACCEUIL.resources
+C:\Users\dugauqui\Downloads\ProjetIHM-20170530T140555Z-001\ProjetIHM\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\dugauqui\Downloads\ProjetIHM-20170530T140555Z-001\ProjetIHM\WindowsApplication1\obj\Debug\WindowsApplication1.Options.resources
+C:\Users\dugauqui\Downloads\ProjetIHM-20170530T140555Z-001\ProjetIHM\WindowsApplication1\obj\Debug\WindowsApplication1.Partie.resources
+C:\Users\dugauqui\Downloads\ProjetIHM-20170530T140555Z-001\ProjetIHM\WindowsApplication1\obj\Debug\WindowsApplication1.Scores.resources
+C:\Users\dugauqui\Downloads\ProjetIHM-20170530T140555Z-001\ProjetIHM\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\dugauqui\Downloads\Vrai projet IHM-20170530T153308Z-001\Vrai projet IHM\ProjetIHM\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\dugauqui\Downloads\Vrai projet IHM-20170530T153308Z-001\Vrai projet IHM\ProjetIHM\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\dugauqui\Downloads\Vrai projet IHM-20170530T153308Z-001\Vrai projet IHM\ProjetIHM\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\dugauqui\Downloads\Vrai projet IHM-20170530T153308Z-001\Vrai projet IHM\ProjetIHM\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\dugauqui\Downloads\Vrai projet IHM-20170530T153308Z-001\Vrai projet IHM\ProjetIHM\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\dugauqui\Downloads\Vrai projet IHM-20170530T153308Z-001\Vrai projet IHM\ProjetIHM\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\dugauqui\Downloads\Vrai projet IHM-20170530T153308Z-001\Vrai projet IHM\ProjetIHM\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\dugauqui\Downloads\Vrai projet IHM-20170530T153308Z-001\Vrai projet IHM\ProjetIHM\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+C:\Users\dugauqui\Downloads\Vrai projet IHM-20170530T153308Z-001\Vrai projet IHM\ProjetIHM\WindowsApplication1\obj\Debug\WindowsApplication1.ACCEUIL.resources
+C:\Users\dugauqui\Downloads\Vrai projet IHM-20170530T153308Z-001\Vrai projet IHM\ProjetIHM\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\dugauqui\Downloads\Vrai projet IHM-20170530T153308Z-001\Vrai projet IHM\ProjetIHM\WindowsApplication1\obj\Debug\WindowsApplication1.Options.resources
+C:\Users\dugauqui\Downloads\Vrai projet IHM-20170530T153308Z-001\Vrai projet IHM\ProjetIHM\WindowsApplication1\obj\Debug\WindowsApplication1.Partie.resources
+C:\Users\dugauqui\Downloads\Vrai projet IHM-20170530T153308Z-001\Vrai projet IHM\ProjetIHM\WindowsApplication1\obj\Debug\WindowsApplication1.Scores.resources
+C:\Users\dugauqui\Downloads\Vrai projet IHM-20170530T153308Z-001\Vrai projet IHM\ProjetIHM\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
